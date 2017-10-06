@@ -105,7 +105,7 @@ DON'T TOUCH MEEEEEEEEEE!
 ## [Red Guy]
 What?
 
-![Don'tTouchMe.jpg]( insert photo here)
+![Don'tTouchMe.jpg](https://github.com/aclloyd97/Don-t-Hug-Me-I-m-Scared-4/blob/master/Don'tTouchMe.jpg)
 
 ###### [a mishmash of digital noise and screams occurs as several dark scenes flash]
 
